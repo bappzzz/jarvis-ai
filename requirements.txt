@@ -15,6 +15,7 @@ pyautogui>=0.9.54
 pyperclip>=1.8.2
 pygetwindow>=0.0.9
 psutil>=5.9.0
+pywin32>=306           # Windows API access (win32gui, win32con) for window focus
 
 # Web
 requests>=2.31.0
@@ -23,6 +24,8 @@ feedparser>=6.0.10      # for get_news()
 
 # Vision / screen
 pillow>=10.0.0
+opencv-python>=4.8.0    # camera capture for object detection
+ultralytics>=8.0.0      # YOLOv8 object detection
 
 # Microphone input (speech_recognition needs this)
 pyaudio>=0.2.11
