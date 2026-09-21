@@ -174,7 +174,7 @@ jarvis-ai/
 
 ## 📜 License
 
-Add a license of your choice (e.g., MIT) if you want others to be able to reuse this code.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
