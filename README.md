@@ -66,7 +66,7 @@ A voice-controlled desktop assistant inspired by Tony Stark's J.A.R.V.I.S. It li
 | Screenshots | `Pillow` (`ImageGrab`) |
 | Config | `python-dotenv` |
 | Clipboard | `pyperclip` |
-| Dashboard link | `websockets`, vanilla JS/HTML/CSS (canvas animation) |
+| Dashboard link | `websockets` |
 
 ---
 
